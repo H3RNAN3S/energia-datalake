@@ -1,0 +1,51 @@
+nombre_proveedor,tipo_energia,capacidad_mw,fecha_contrato
+EnerWind SAS,eólica,550,2022-03-15
+HidroAndes,hidroeléctrica,1200,2021-07-22
+Nuclearis Colombia,nuclear,2000,2023-01-10
+Solaris Caribe,eólica,480,2022-09-05
+AquaPower,hidroeléctrica,950,2020-11-30
+Atom Energy,nuclear,1800,2023-05-20
+Vientos del Norte,eólica,620,2021-02-18
+Ríos de Colombia,hidroeléctrica,1500,2022-08-14
+Fission Corp,nuclear,2200,2024-01-25
+EoloGenera,eólica,710,2023-04-12
+Cauca Hidroeléctrica,hidroeléctrica,1100,2021-06-01
+Isotopo SAS,nuclear,1950,2023-10-02
+Brisa Renovada,eólica,590,2022-11-28
+Magdalena Power,hidroeléctrica,1300,2020-09-17
+Core Energy,nuclear,2100,2024-03-30
+Aires de la Guajira,eólica,800,2023-07-19
+Generadora Hídrica,hidroeléctrica,1050,2021-12-08
+Atomic Solutions,nuclear,1750,2022-06-11
+Ventus Energy,eólica,680,2023-08-21
+Saltos de Agua,hidroeléctrica,1250,2022-01-05
+Quantum Nuclear,nuclear,2300,2024-06-15
+Ciclón Energy,eólica,750,2021-04-29
+Fuerza Hídrica,hidroeléctrica,1400,2023-02-09
+Neutrón Power,nuclear,1900,2022-09-18
+Alisio Renovables,eólica,630,2021-10-13
+Aguas Claras,hidroeléctrica,1150,2022-05-24
+Uranio Energético,nuclear,2050,2024-08-01
+Helios Viento,eólica,720,2023-11-04
+Corriente Andina,hidroeléctrica,1350,2021-08-02
+Reactores del Sur,nuclear,2150,2023-03-17
+Soplo Divino,eólica,660,2022-04-06
+Embalse Generador,hidroeléctrica,1450,2020-12-20
+N-Energía,nuclear,1850,2022-12-25
+Gale Force,eólica,780,2023-09-30
+Cascada Azul,hidroeléctrica,1280,2021-03-23
+Átomo Pacífico,nuclear,2250,2024-02-14
+AeroGenera,eólica,810,2022-07-07
+Potencia Fluvial,hidroeléctrica,1180,2023-06-16
+Fuerza Nuclear,nuclear,1980,2022-10-22
+Ventarrón SAS,eólica,730,2021-05-11
+Río Claro Energía,hidroeléctrica,1320,2022-03-03
+Isótopos Andinos,nuclear,2080,2024-05-09
+Brisa Costera,eólica,690,2023-12-12
+HidroGenera,hidroeléctrica,1480,2021-01-15
+Core Nuclear Solutions,nuclear,2180,2023-08-08
+Vientos Alisios,eólica,760,2022-02-26
+Generadora del Río,hidroeléctrica,1220,2020-10-01
+Atomicorp,nuclear,2350,2024-07-20
+Eólica de los Andes,eólica,820,2023-01-28
+Aguas Vivas,hidroeléctrica,1380,2021-09-09

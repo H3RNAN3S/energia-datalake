@@ -1,0 +1,51 @@
+tipo_identificacion,identificacion,nombre,ciudad,tipo_cliente
+CC,1037584921,Ana Pérez,Medellín,Residencial
+NIT,900123456-7,Industrias ABC SAS,Bogotá D.C.,Corporativo
+CC,71284596,Carlos Rodriguez,Cali,Residencial
+NIT,890987654-3,Comercializadora Global,Barranquilla,Corporativo
+CC,1017258436,Sofia Gómez,Medellín,Residencial
+NIT,901234567-8,Aceros de Colombia,Bogotá D.C.,Corporativo
+CC,79841256,Juan Martinez,Cali,Residencial
+NIT,800198765-4,Logística Andina,Barranquilla,Corporativo
+CC,1020457896,Maria Hernandez,Medellín,Residencial
+NIT,900567890-1,TecnoSoluciones,Bogotá D.C.,Corporativo
+CC,80159753,Andrés Torres,Cali,Residencial
+NIT,830012345-6,Alimentos del Valle,Barranquilla,Corporativo
+CC,1035896471,Laura Diaz,Medellín,Residencial
+NIT,901011121-3,Químicos Industriales,Bogotá D.C.,Corporativo
+CC,71589632,Javier Moreno,Cali,Residencial
+NIT,860504321-9,Manufacturas del Caribe,Barranquilla,Corporativo
+CC,1007584213,Daniela Muñoz,Medellín,Residencial
+NIT,900876123-2,Inversiones Futuro,Bogotá D.C.,Corporativo
+CC,79951357,Alejandro Jiménez,Cali,Residencial
+NIT,800250147-8,Consultores Asociados,Barranquilla,Corporativo
+CC,1018496258,Valentina Rojas,Medellín,Residencial
+NIT,901314151-6,Grupo Constructor,Bogotá D.C.,Corporativo
+CC,80852741,Sebastián Castro,Cali,Residencial
+NIT,890305678-9,Plásticos Nacionales,Barranquilla,Corporativo
+CC,1026147852,Camila Vargas,Medellín,Residencial
+NIT,900412587-3,Servicios Integrales,Bogotá D.C.,Corporativo
+CC,71369852,Mateo Silva,Cali,Residencial
+NIT,830111589-2,Textiles de la Costa,Barranquilla,Corporativo
+CC,1038451296,Isabella Rios,Medellín,Residencial
+NIT,901122334-4,Financiera Confianza,Bogotá D.C.,Corporativo
+CC,79741852,Nicolás Peña,Cali,Residencial
+NIT,800005006-7,Importaciones & Exportaciones,Barranquilla,Corporativo
+CC,1017159357,Gabriela Soto,Medellín,Residencial
+NIT,900654987-0,Dotaciones Empresariales,Bogotá D.C.,Corporativo
+CC,80258147,David Méndez,Cali,Residencial
+NIT,860012389-1,Empaques Modernos,Barranquilla,Corporativo
+CC,1022365897,Valeria Mendoza,Medellín,Residencial
+NIT,901202102-3,Sistemas y Computadores,Bogotá D.C.,Corporativo
+CC,71698532,Samuel Cruz,Cali,Residencial
+NIT,890903852-4,Vigilancia Privada,Barranquilla,Corporativo
+CC,1036985471,Luciana Morales,Medellín,Residencial
+NIT,900369741-5,Salud y Bienestar IPS,Bogotá D.C.,Corporativo
+CC,79584213,Felipe Navarro,Cali,Residencial
+NIT,800159357-8,Agencia de Viajes,Barranquilla,Corporativo
+CC,1019058741,Martina Guzman,Medellín,Residencial
+NIT,901005008-9,Centro de Diagnóstico,Bogotá D.C.,Corporativo
+CC,80456123,Tomás Herrera,Cali,Residencial
+NIT,830508642-1,Cadena de Restaurantes,Barranquilla,Corporativo
+CC,1020789654,Elena Castillo,Medellín,Residencial
+NIT,900998877-6,Papelería Nacional,Bogotá D.C.,Corporativo

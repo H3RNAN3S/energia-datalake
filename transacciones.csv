@@ -1,0 +1,51 @@
+tipo_transaccion,nombre_cliente_proveedor,cantidad_kwh,precio_kwh,tipo_energia,fecha_transaccion
+venta,Ana Pérez,350,750.50,eólica,2024-08-15
+compra,HidroAndes,500000,320.00,hidroeléctrica,2024-08-16
+venta,Industrias ABC SAS,15000,680.75,hidroeléctrica,2024-08-17
+compra,Nuclearis Colombia,800000,550.25,nuclear,2024-08-18
+venta,Carlos Rodriguez,420,780.90,nuclear,2024-08-19
+compra,Solaris Caribe,250000,380.60,eólica,2024-08-20
+venta,Comercializadora Global,25000,695.00,eólica,2024-08-21
+compra,AquaPower,400000,315.40,hidroeléctrica,2024-08-22
+venta,Sofia Gómez,380,760.20,hidroeléctrica,2024-08-23
+compra,Atom Energy,750000,540.80,nuclear,2024-08-24
+venta,Aceros de Colombia,50000,670.50,nuclear,2024-08-25
+compra,Vientos del Norte,300000,385.90,eólica,2024-08-26
+venta,Juan Martinez,410,775.00,eólica,2024-08-27
+compra,Ríos de Colombia,600000,310.70,hidroeléctrica,2024-08-28
+venta,Logística Andina,35000,685.30,hidroeléctrica,2024-08-29
+compra,Fission Corp,900000,560.00,nuclear,2024-08-30
+venta,Maria Hernandez,390,790.10,nuclear,2024-09-01
+compra,EoloGenera,320000,390.25,eólica,2024-09-02
+venta,TecnoSoluciones,18000,710.40,eólica,2024-09-03
+compra,Cauca Hidroeléctrica,450000,325.80,hidroeléctrica,2024-09-04
+venta,Andrés Torres,430,765.60,hidroeléctrica,2024-09-05
+compra,Isotopo SAS,780000,555.10,nuclear,2025-01-10
+venta,Alimentos del Valle,45000,675.90,nuclear,2025-01-11
+compra,Brisa Renovada,280000,400.00,eólica,2025-01-12
+venta,Laura Diaz,360,755.70,eólica,2025-01-13
+compra,Magdalena Power,550000,318.20,hidroeléctrica,2025-02-14
+venta,Químicos Industriales,60000,690.40,hidroeléctrica,2025-02-15
+compra,Core Energy,850000,565.50,nuclear,2025-02-16
+venta,Javier Moreno,450,795.80,nuclear,2025-02-17
+compra,Aires de la Guajira,400000,375.30,eólica,2025-03-18
+venta,Manufacturas del Caribe,30000,705.10,eólica,2025-03-19
+compra,Generadora Hídrica,480000,330.60,hidroeléctrica,2025-03-20
+venta,Daniela Muñoz,370,745.90,hidroeléctrica,2025-03-21
+compra,Atomic Solutions,700000,570.70,nuclear,2025-04-22
+venta,Inversiones Futuro,22000,715.20,nuclear,2025-04-23
+compra,Ventus Energy,350000,395.00,eólica,2025-04-24
+venta,Alejandro Jiménez,440,785.40,eólica,2025-04-25
+compra,Saltos de Agua,520000,322.90,hidroeléctrica,2025-05-26
+venta,Consultores Asociados,12000,720.80,hidroeléctrica,2025-05-27
+compra,Quantum Nuclear,950000,580.30,nuclear,2025-05-28
+venta,Valentina Rojas,390,800.00,nuclear,2025-05-29
+compra,Ciclón Energy,380000,388.10,eólica,2025-06-01
+venta,Grupo Constructor,75000,660.60,eólica,2025-06-02
+compra,Fuerza Hídrica,620000,308.50,hidroeléctrica,2025-06-03
+venta,Sebastián Castro,460,770.25,hidroeléctrica,2025-06-04
+compra,Neutrón Power,820000,575.00,nuclear,2025-07-05
+venta,Plásticos Nacionales,40000,698.80,nuclear,2025-07-06
+compra,Alisio Renovables,310000,405.40,eólica,2025-07-07
+venta,Camila Vargas,340,758.10,eólica,2025-07-08
+compra,Aguas Claras,490000,335.70,hidroeléctrica,2025-08-09
